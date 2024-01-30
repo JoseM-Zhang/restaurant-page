@@ -1,0 +1,37 @@
+<div id="content">
+      <div id="top">
+        <h1>Restaurant Example</h1>
+      </div>
+      <div id="navigation">
+        <ul>
+          <li>home</li>
+          <li>menu</li>
+          <li>contact us</li>
+        </ul>
+      </div>
+      <div id="center">
+        <img src="./heroimage.jpeg" alt="restaurant hero banner">
+        <h2>best food all around or something</h2>
+        <p>good food, yummy, quite good, very affordable, and myriad of other things!</p>
+        <h2>hours</h2>
+        <ul>
+          <li>Monday: all day baby</li>
+          <li>Tuesday: all night baby</li>
+          <li>Wednesday: all afternoon baby</li>
+          <li>Thursday: all evening baby</li>
+          <li>Friday: all midnight baby</li>
+          <li>Saturday: closed</li>
+          <li>Sunday: closed</li>
+        </ul>
+      </div>
+      <div id="footnote">
+        <div class="foot-links">
+          <ul>
+            <li>home</li>
+            <li>menu</li>
+            <li>contact us</li>
+          </ul>
+        </div>
+        <div>maybe some copyright</div>
+      </div>
+   </div>
